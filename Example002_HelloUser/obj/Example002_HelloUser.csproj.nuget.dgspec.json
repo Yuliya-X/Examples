@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser2\\Example002_HelloUser.csproj": {}
+    "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
   },
   "projects": {
-    "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser2\\Example002_HelloUser.csproj": {
+    "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser2\\Example002_HelloUser.csproj",
+        "projectUniqueName": "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "projectName": "Example002_HelloUser",
-        "projectPath": "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser2\\Example002_HelloUser.csproj",
+        "projectPath": "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "packagesPath": "C:\\Users\\Yx\\.nuget\\packages\\",
-        "outputPath": "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser2\\obj\\",
+        "outputPath": "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yx\\AppData\\Roaming\\NuGet\\NuGet.Config"

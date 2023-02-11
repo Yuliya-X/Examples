@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n/SIJY2qLTR1zHsH3TLLOKjU1PIlOSjmEdr02Gop2AeQ0t4eKgN9v7nVhgt46QFXSI6d9li2Rd5+dzgj935+Dw==",
+  "dgSpecHash": "aj8yz/+2GH8TEolQxZe4SVbDplaNhOlzbSd4NE1F0FFElfICUfB5PJbxmpPdradEMrugS7dlxanG4cl8ibzH+w==",
   "success": true,
-  "projectFilePath": "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser2\\Example002_HelloUser.csproj",
+  "projectFilePath": "D:\\Документы\\Курсы\\С#\\Lesson1\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
