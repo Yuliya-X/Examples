@@ -1,0 +1,16 @@
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\bin\Debug\net6.0\Example001_HW.exe
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\bin\Debug\net6.0\Example001_HW.deps.json
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\bin\Debug\net6.0\Example001_HW.runtimeconfig.json
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\bin\Debug\net6.0\Example001_HW.dll
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\bin\Debug\net6.0\ref\Example001_HW.dll
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\bin\Debug\net6.0\Example001_HW.pdb
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\obj\Debug\net6.0\Example001_HW.GlobalUsings.g.cs
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\obj\Debug\net6.0\Example001_HW.csproj.AssemblyReference.cache
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\obj\Debug\net6.0\Example001_HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\obj\Debug\net6.0\Example001_HW.AssemblyInfoInputs.cache
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\obj\Debug\net6.0\Example001_HW.AssemblyInfo.cs
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\obj\Debug\net6.0\Example001_HW.csproj.CoreCompileInputs.cache
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\obj\Debug\net6.0\Example001_HW.dll
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\obj\Debug\net6.0\ref\Example001_HW.dll
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\obj\Debug\net6.0\Example001_HW.pdb
+D:\Документы\Курсы\С#\Lesson1\Examples\Example001_HW\obj\Debug\net6.0\Example001_HW.genruntimeconfig.cache
